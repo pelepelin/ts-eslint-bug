@@ -12,7 +12,6 @@
     "@typescript-eslint/parser": "2.22.0",
     "eslint": "6.6.0",
     "tslint": "5.20.0",
-    "tslint-microsoft-contrib": "6.2.0",
     "typescript": "3.7.4"
   }
 }

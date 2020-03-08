@@ -20,10 +20,7 @@ module.exports = {
             rules: {
               "encoding": true,
               'completed-docs': true,
-            },
-            rulesDirectory: [
-              "./node_modules/tslint-microsoft-contrib"
-            ]
+            }
           }
         ],
       }
@@ -37,10 +34,7 @@ module.exports = {
             rules: {
               "encoding": true,
               'completed-docs': false
-            },
-            rulesDirectory: [
-              "./node_modules/tslint-microsoft-contrib"
-            ]
+            }
           }
         ],
       }
